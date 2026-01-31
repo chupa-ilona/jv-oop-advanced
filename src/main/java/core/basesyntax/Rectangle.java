@@ -21,8 +21,8 @@ public class Rectangle implements Figure {
         System.out.println("Figure: rectangle, area: "
                 + getArea()
                 + " sq. units, width: " + width
-                + ", height: " + height
-                + ", color: " + color);
+                + "units, height: " + height
+                + "units, color: " + color);
     }
 }
 

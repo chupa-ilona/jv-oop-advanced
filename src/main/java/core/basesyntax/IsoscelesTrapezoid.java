@@ -23,9 +23,9 @@ public class IsoscelesTrapezoid implements Figure {
     public void draw() {
         System.out.println("Figure: trapezoid, area: " + getArea()
                 + " sq. units, base1: " + base1
-                + ", base2: " + base2
-                + ", height: " + height
-                + ", color: " + color
+                + "units, base2: " + base2
+                + "units, height: " + height
+                + "units, color: " + color
         );
     }
 }

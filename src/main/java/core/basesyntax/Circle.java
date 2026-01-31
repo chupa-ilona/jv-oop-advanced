@@ -19,7 +19,7 @@ public class Circle implements Figure {
         System.out.println("Figure: circle, area: "
                 + getArea()
                 + " sq. units, radius: " + radius
-                + ", color: " + color);
+                + "units, color: " + color);
     }
 }
 

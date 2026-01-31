@@ -19,7 +19,7 @@ public class Square implements Figure {
         System.out.println("Figure: square, area: "
                 + getArea()
                 + " sq. units, side: " + side
-                + ", color: " + color);
+                + "units, color: " + color);
     }
 }
 
