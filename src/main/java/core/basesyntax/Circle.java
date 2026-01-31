@@ -4,7 +4,6 @@ public class Circle implements Figure {
     private double radius;
     private String color;
 
-
     public Circle(String color, double radius) {
         this.radius = radius;
         this.color = color;
