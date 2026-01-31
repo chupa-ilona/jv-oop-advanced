@@ -1,8 +1,8 @@
 package core.basesyntax;
 
-public interface Figure {
+public abstract class Figure implements Drawable , HasArea {
+    protected String color;
 
-    double getArea();
-
-    void draw();
+    public Figure(String color) {
+    }
 }
